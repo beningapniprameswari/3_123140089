@@ -18,7 +18,7 @@ Aplikasi menampilkan informasi profil pengguna dengan komponen UI modern dari Je
   * Email
   * Nomor telepon
   * Lokasi
-* Tombol **Detail Profile**
+* Tombol Detail Profile
 
 ## 🧩 Komponen UI yang Digunakan
 

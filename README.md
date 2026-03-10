@@ -3,15 +3,15 @@
 ## 123140089
 ## PAM RB
 
-Aplikasi sederhana berbasis **Jetpack Compose** yang menampilkan halaman profil pengguna.
-Project ini dibuat untuk memenuhi tugas praktikum **Pengembangan Aplikasi Mobile – Pertemuan 3 (Compose Basics)**.
+Aplikasi sederhana berbasis Jetpack Compose yang menampilkan halaman profil pengguna.
+Project ini dibuat untuk memenuhi tugas praktikum Pengembangan Aplikasi Mobile – Pertemuan 3.
 
 ## 📱 Fitur Aplikasi
 
 Aplikasi menampilkan informasi profil pengguna dengan komponen UI modern dari Jetpack Compose, meliputi:
 
-* Foto profil berbentuk **circular**
-* Nama dan **NIM**
+* Foto profil berbentuk circular
+* Nama dan NIM
 * Deskripsi singkat (bio)
 * Informasi kontak:
 
@@ -22,7 +22,7 @@ Aplikasi menampilkan informasi profil pengguna dengan komponen UI modern dari Je
 
 ## 🧩 Komponen UI yang Digunakan
 
-Aplikasi ini menggunakan beberapa komponen utama dari **Jetpack Compose**:
+Aplikasi ini menggunakan beberapa komponen utama dari Jetpack Compose:
 
 * Column
 * Row
@@ -35,7 +35,7 @@ Aplikasi ini menggunakan beberapa komponen utama dari **Jetpack Compose**:
 
 ## 🔁 Reusable Composable Functions
 
-Project ini menggunakan beberapa **Composable Function yang reusable**, yaitu:
+Project ini menggunakan beberapa Composable Function yang reusable, yaitu:
 
 * `ProfileHeader()`
   Menampilkan foto profil, nama, NIM, dan bio.
@@ -54,10 +54,10 @@ Berikut tampilan aplikasi ketika dijalankan:
 
 ## 🛠 Teknologi yang Digunakan
 
-* **Kotlin**
-* **Jetpack Compose**
-* **Android Studio**
-* **Material 3 UI**
+* Kotlin
+* Jetpack Compose
+* Android Studio
+* Material 3 UI
 
 ## 📂 Struktur Project
 
@@ -79,6 +79,6 @@ tugaspam3
 git clone https://github.com/username/tugaspam3.git
 ```
 
-2. Buka project di **Android Studio**
+2. Buka project di Android Studio
 
-3. Jalankan aplikasi menggunakan **Android Emulator / Device**
+3. Jalankan aplikasi menggunakan Android Emulator/Device
